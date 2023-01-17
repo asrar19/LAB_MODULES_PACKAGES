@@ -1,3 +1,3 @@
 import dateOP
-from dateOP import today
+from dateOP import current_date
 
